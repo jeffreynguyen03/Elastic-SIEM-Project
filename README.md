@@ -19,5 +19,5 @@ Before you begin, ensure you have the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Elastic-SIEM-Lab.git
-cd Elastic-SIEM-Lab
+git clone https://github.com/yourusername/Elastic-SIEM-Project.git
+cd Elastic-SIEM-Project
