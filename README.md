@@ -2,7 +2,7 @@
 
 **[Status: Work in Progress]**
 
-This project is currently under development. I am in the process of setting up and refining the SIEM lab using the Elastic Stack. Updates will be made as progress continues, including additional configurations, testing, and documentation.
+This document provides a detailed account of the process I followed to build a home SIEM (Security Information and Event Management) lab using Elastic Stack. The project involved installing, configuring, and testing Elasticsearch, and Kibana on a Kali Linux virtual machine.
 
 ## Overview
 
