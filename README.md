@@ -15,7 +15,7 @@ Before starting this project, I ensured I had the following:
 - A machine or VM running **Kali Linux** (preferably in **Oracle VirtualBox**)
 - **Packetbeat** installed to capture network traffic
 - **Elastic Stack** components (Elasticsearch, Logstash, Kibana) installed
-- **Registration with a Monitoring and Analytics Platform** in this case elastic
+- **Registration with a Monitoring and Analytics Platform** in this case Elastic
 
 ## Steps
 
