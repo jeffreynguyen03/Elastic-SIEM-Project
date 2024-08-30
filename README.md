@@ -1,6 +1,6 @@
 # Elastic-Siem-Project 
 
-**Status: Work in Progress** 🚧
+**[Work in Progress]** 🚧
 
 This document provides a detailed account of the process I followed to build a home SIEM (Security Information and Event Management) lab using Elastic Stack, based on the tutorial I followed. The project involved setting up and configuring Elasticsearch, Logstash, and Kibana on a virtual machine, along with capturing network traffic using Packetbeat.
 
